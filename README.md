@@ -1,4 +1,3 @@
-# README for Job Search AI Project
 
 ## Project Overview
 The **Job Search AI** is a Python application designed to automate job searches, evaluate job descriptions based on user preferences, and send email alerts for matching job opportunities. It leverages APIs, environment variables, and machine learning models to streamline the job-hunting process.
